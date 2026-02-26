@@ -1,21 +1,39 @@
-# Hi! I'm Mythili
-*Information Technology student at Panimalar Engineering College
-*Focused on Data Science, Machine Learning, and intelligent system design
-*Skilled in transforming complex datasets into actionable insights
-*Interested in building real-world, problem-solving applications
+## Hi! I'm Mythili S
 
-#Skills & Interests
-*Python
-*Data Analytics and Exploratory Data Analysis
-*Machine Learning and Predictive Modeling
-*Data Visualization
+- Information Technology student at Panimalar Engineering College  
+- Focused on Data Science, Machine Learning, and intelligent system design  
+- Skilled in transforming complex datasets into actionable insights  
+- Interested in building real-world, problem-solving applications  
 
-#Internships
-Intern at ShadowFox – Worked on ML workflows and data analysis
-Intern at InternPro – Applied machine learning models on real datasets
+---
 
-#Achievement
-Finalist – Tamil Nadu Police Hackathon 2025
+## Skills & Interests
+
+- Python  
+- Data Analytics  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning  
+- Predictive Modeling  
+- API Integration  
+- Data Visualization  
+
+---
+
+## Experience
+
+**ShadowFox – Machine Learning Intern**  
+- Worked on ML workflows  
+- Performed data analysis and preprocessing  
+
+**InternPro – Data Science Intern**  
+- Applied machine learning models on real datasets  
+- Built analytical insights from structured data  
+
+---
+
+## Achievement
+
+- Finalist – Tamil Nadu Police Hackathon 2025  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mythili-senthilkumar-29mk2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mythilisenth770@gmail.com) 
