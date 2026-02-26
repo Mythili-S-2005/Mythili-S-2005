@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ’m Mythili S, a passionate Information Technology student focused on Data Science, Machine Learning, and intelligent system design. I enjoy transforming complex datasets into meaningful insights and building applications that solve real-world problems.<br><br>Currently pursuing my degree at Panimalar Engineering College, developing hands-on experience in Python, data analytics, API integration, and predictive modeling. My work blends analytical thinking with creativity — whether it's building AI-powered assistants, forensic analysis tools, or live prediction systems.<br><br>Through internships at ShadowFox and InternPro, I gained practical exposure to machine learning workflows, exploratory data analysis, and impactful data visualization for decision-making.<br><br>As a Tamil Nadu Police Hackathon Finalist 2025, I thrive in high-pressure, innovation-driven environments where ideas turn into functional prototypes quickly.<br><br>I believe in continuous learning, building with purpose, and using technology to create scalable, intelligent, and impactful solutions.
 
 
