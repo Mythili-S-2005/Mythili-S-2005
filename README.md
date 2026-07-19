@@ -9,6 +9,8 @@
 
 ## Skills & Interests
 
+- Java
+- OOPS
 - Python  
 - Data Analytics  
 - Exploratory Data Analysis (EDA)  
